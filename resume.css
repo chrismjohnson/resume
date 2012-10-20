@@ -1,0 +1,70 @@
+body { color: #444; font: 14px/1.5em Georgia, Times, serif; }
+a { color: #C60; text-decoration: none; }
+h1, h2, h3, h4, h5 { color: #333; font-weight: normal; margin: 0; }
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.15em; font-style: italic; }
+
+.cfx:after { content: '.'; display: block; height: 0; clear: both; visibility: hidden; }
+.cfx { display: inline-table; min-width: 1px; }
+/* Hides from IE-mac \*/
+*html .cfx { height: 1%; }
+.cfx { display: block; }
+/* End hide from IE-mac */
+
+.section { border-bottom: 1px solid #ccc; margin-bottom: 1em; padding: 1em; }
+.section.last,
+.section:last-child { border: 0; margin-bottom: 0; padding-bottom: 0; }
+.section > .title { float: left; width: 125px; }
+.section > div { margin-left: 125px; }
+
+.entry { position: relative; border-bottom: 1px solid #ccc; margin-bottom: 1em; padding: 1em 0; }
+.entry.first,
+.entry:first-child { padding-top: 0; }
+.entry.first .date,
+.entry:first-child .date { top: 0; }
+.entry.last,
+.entry:last-child { border: 0; margin-bottom: 0; padding-bottom: 0; }
+.entry p { margin: 0.5em 0; }
+.entry p.first,
+.entry p:first-child { margin-top: 0; }
+.entry p.last,
+.entry p:last-child { margin-bottom: 0; }
+.entry ul { margin: 5px; padding-left: 1.5em; }
+.entry .date { position: absolute; top: 1em; right: 0 }
+
+.column { float: left; width: 31%; margin: 0 10px 0 0; }
+
+#wrapper { width: 800px; background: #f5f5f5; border: solid #666; border-width: 8px 0 2px 0; margin: 20px auto; padding: 10px 80px; }
+
+#header { position: relative; border-bottom: 1px solid #ccc; margin: 2.5em 0 1em 0; padding-bottom: 2em; }
+#header h1 { font-size: 48px; text-transform: uppercase; letter-spacing: 3px; }
+#header h2 { text-transform: uppercase; letter-spacing: 2px; margin-top: 0.5em; }
+#header #contact { position: absolute; top: 0; right: 0; text-align: right; }
+
+#content { /*border-bottom: 1px solid #ccc;*/ margin-bottom: 1em; padding-bottom: 1em; }
+
+#profile p { margin: 0; padding-right: 3em; }
+
+#skills	p { line-height: 1.3em; }
+
+#technical dl { line-height: 24px; margin: 0; }
+#technical dt { float: left; width: 125px; font-style: italic; font-weight: normal; }
+#technical dt:after { content: ":"; }
+#technical dd { margin-left: 125px; }
+
+#education p { font-size: 0.9em; margin: 0; }
+
+#footer { display: none; font-size: 0.75em; text-align: center; }
+#footer p { margin-bottom: 0; }
+
+@media print {
+	#wrapper { border: 0; margin: 0 auto; padding: 0; }
+	#header { border-color: #eee; margin-top: 0; margin-bottom: 0.5em; padding-bottom: 1em; }
+	#header h1 { font-size: 24px; }
+	#header h2 { font-size: 14px; }
+	#content { border-color: #eee; margin-bottom: 0.5em; padding-bottom: 0.5em; }
+	.job li { page-break-before: auto; }
+	.section { border-color: #eee; margin-bottom: 0.5em; padding: 0.5em; }
+	.entry { border-color: #eee; margin-bottom: 0.5em; padding: 0.5em 0; }
+}
