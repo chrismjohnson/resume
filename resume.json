@@ -1,0 +1,268 @@
+{
+  "profile": "A passionate full stack engineer with an entrepreneurial spirit to understand business impact and the ability to lead and mentors others both technically and professionally.",
+  "skills": [
+    {
+      "title": "User Experience",
+      "body": "Bring a design background to apply user-friendly interfaces on top of all development projects."
+    },
+    {
+      "title": "Development",
+      "body": "Architect and implement solutions using the appropriate technologies, even if it requires independent learning."
+    },
+    {
+      "title": "Management",
+      "body": "Promote a bottom-up management style educating and empowering developers to collaborate and innovate."
+    }
+  ],
+  "technical": [
+    {
+      "label": "Proficient with",
+      "skills": [
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "Sass",
+        "Javascript",
+        "jQuery",
+        "Backbone.js",
+        "SVN",
+        "Git",
+        "Memcache",
+        "Redis",
+        "Gearman",
+        "Hadoop",
+        "Hive"
+      ]
+    },
+    {
+      "label": "Experienced with",
+      "skills": [
+        "Ruby",
+        "Python",
+        "Java",
+        "Scala",
+        "Bash",
+        "JSP",
+        "JSF",
+        "Scribe",
+        "Varnish",
+        "Amazon&nbsp;AWS",
+        "Content Delivery Networks",
+        "Video Transcoding"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Handy",
+      "start_date": "05/2015",
+      "location": "New York, NY",
+      "positions": [
+        {
+          "title": "Engineering Manager",
+          "start_date": "05/2015",
+          "notes": [
+            "Led team onboarding new engineers to standardize training while paring down technical debt.",
+            "Streamlined project management process for easier cross-team collaboration and transparency."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Tumblr",
+      "start_date": "12/2012",
+      "end_date": "05/2015",
+      "location": "New York, NY",
+      "positions": [
+        {
+          "title": "Engineering Manager - Dashboard",
+          "start_date": "10/2014",
+          "end_date": "05/2015",
+          "notes": [
+            "Coordinated redesign of Tumblr web product across all verticals.",
+            "Launched new video player experience including HD quality and mobile web support.",
+            "Launched multiple third party integrations as potential secondary revenue growth vehicles.",
+            "Gave internal developer talks to educate developers and promote existing tools."
+          ]
+        },
+        {
+          "title": "Engineering Manager - Creator Tools",
+          "start_date": "10/2013",
+          "end_date": "10/2014",
+          "notes": [
+            "Shifted team focus to post &amp; theme creation due to success on engagement growth.",
+            "Improved project transparency to technical leadership by educating team on Scrum practices.",
+            "Architected major overhaul of creation tools to modernize experience and underlying code.",
+            "Advocated new frontend architecture to standardize and improve code quality."
+          ]
+        },
+        {
+          "title": "Engineering Lead - Engagement",
+          "start_date": "06/2013",
+          "end_date": "10/2013",
+          "notes": [
+            "Led team focused on user engagement (email, activity metrics, mentions).",
+            "Architected and built new email infrastructure; grew volume by 15x (1M to 15M) per day.",
+            "Created and tested marketing campaigns to maintain above industry standard engagement metrics."
+          ]
+        },
+        {
+          "title": "Product Engineer",
+          "start_date": "12/2012",
+          "end_date": "06/2013",
+          "notes": [
+            "Improved legacy marketing email infrastructure to increase volume by 10x (100k to 1M) per day.",
+            "Major contributor to company-wide growth initiative including onboarding, registration &amp; email.",
+            "Sole developer and presenter of a Google Glass application for launch partnership at Google I/O."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "CollegeHumor",
+      "start_date": "12/2008",
+      "end_date": "12/2012",
+      "location": "New York, NY",
+      "positions": [
+        {
+          "title": "Director of Backend Development",
+          "start_date": "06/2010",
+          "end_date": "12/2012",
+          "notes": [
+            "Developed and maintained a network of sites that average 5 million pageviews per day.",
+            "Managed Scrum workflow for team of 10 including Frontend, Backend, and Flash developers.",
+            "Developed internal projects using new technologies (e.g., MongoDB, Scribe, nginx, Redis).",
+            "Converted video transcoding to a cloud service for improved performance and operational costs."
+          ]
+        },
+        {
+          "title": "Senior Developer",
+          "start_date": "06/2009",
+          "end_date": "06/2010",
+          "notes": [
+            "Implemented on-the-fly packaging and minification of CSS &amp; JS deployed via a CDN.",
+            "Migrated entire network of sites between content delivery networks with no downtime experienced.",
+            "Implemented Apple's video segmenting tools to deliver variable bit rate video streams of CollegeHumor Originals to mobile devices."
+          ]
+        },
+        {
+          "title": "Junior Developer",
+          "start_date": "12/2008",
+          "end_date": "06/2009",
+          "notes": [
+            "Developed new content sites to grow network diversity for advertisers.",
+            "Led the switch from Prototype to jQuery to ease maintenance and cut down on page weight."
+          ]
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "company": "Freelance Web Developer",
+      "start_date": "01/2000",
+      "end_date": "12/2008",
+      "positions": [
+        {
+          "notes": [
+            "Responsible for acquiring and managing clients in need of website development.",
+            "Managed a team of freelancers to ensure projects were completed on time and within budget.",
+            "In addition to design &amp; development, provided clients with internet marketing strategies."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Prudential Financial, Inc",
+      "start_date": "03/2007",
+      "end_date": "12/2008",
+      "location": "Newark, NJ",
+      "positions": [
+        {
+          "title": "Web Developer",
+          "notes": [
+            "Assigned to new high priority web-based sales channel for Prudential Insurance products.",
+            "Introduced new techniques for layout and functionality using CSS and Javascript.",
+            "Developed prototype from business requirements with anticipation of possible system limitations.",
+            "Developed frontend code allowing implementation of multiple languages and themes.",
+            "Led team transitioning prototype to application including frontend and backend development.",
+            "Ensured the code integrity maintained in transfer from prototype to application.",
+            "Managed development defects detected across multiple testing environments."
+          ]
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "company": "Rochester Institute of Technology",
+      "start_date": "05/2006",
+      "end_date": "03/2007",
+      "location": "Rochester, NY",
+      "positions": [
+        {
+          "title": "Web Developer, ETC Web Services Department",
+          "notes": [
+            "Created and maintained websites for multiple departments of RIT and other clients.",
+            "Created web-based content management systems and other web applications.",
+            "Debugged and improved existing e-commerce applications."
+          ]
+        },
+        {
+          "title": "Web Developer, Center for Campus Life",
+          "notes": [
+            "Debugged and enhanced the Event Registration (EVR) system for public release.",
+            "Enhanced admin control panel used by Campus Life operations.",
+            "Collaborated with department heads to develop requirements for their web solution needs."
+          ]
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "company": "Bernards Township",
+      "start_date": "05/2004",
+      "end_date": "01/2005",
+      "location": "Basking Ridge, NJ",
+      "positions": [
+        {
+          "title": "IT Department Intern",
+          "notes": [
+            "Provided technical support for the Township's employees; including software and hardware troubleshooting, operator training, and routine support.",
+            "Worked independently to gather GPS data for plotting of key Township features to improve response strategies of emergency services."
+          ]
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "company": "Liberty Corner Computing",
+      "start_date": "01/1998",
+      "end_date": "09/2004",
+      "location": "Liberty Corner, NJ",
+      "positions": [
+        {
+          "title": "Staff Member",
+          "notes": [
+            "Responsible for entire operation of the LCC website.",
+            "Assisted in business practices such as payroll, inventory, and staffing schedules.",
+            "Responsible for the development and delivery of marketing features."
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Rochester Institute of Technology",
+      "start_date": "09/2004",
+      "end_date": "11/2008",
+      "location": "Rochester, NY",
+      "programs": [
+        {
+          "title": "Bachelor of Science, Computer Science",
+          "notes": "Dual Minor, Entrepreneurship &amp; Psychology"
+        }
+      ]
+    }
+  ]
+}
