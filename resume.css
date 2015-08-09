@@ -32,6 +32,10 @@ article p.last,
 article p:last-child { margin-bottom: 0; }
 article ul { margin: 5px; padding-left: 1.5em; }
 article .date { position: absolute; top: 0; right: 0 }
+article .position { position: relative; }
+
+article .position h3 { display: inline-block; }
+article .position .date { display: inline-block; position: static; margin-left: 20px; }
 
 .column { float: left; width: 31%; margin: 0 10px 0 0; }
 
